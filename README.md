@@ -18,7 +18,7 @@
 
 Advanced 4th-year Systems Engineering student at **UTN** (Universidad Tecnológica Nacional), based in San Rafael, Mendoza, Argentina. Since 2023 I've worked as a freelance full stack developer, taking projects from a client's first idea all the way to a deployed product — architecture, UI/UX, backend, database design and hosting.
 
-I care more about shipping something that actually works for real users than about ticking off a tech-stack checklist. That's why most of my projects end up in production for a real client, not just in a portfolio.
+I care  about shipping something that actually works for real users and also work with personal projects to improve always my tech-stack checklist.
 
 ### 🧠 What I'm curious about right now
 
