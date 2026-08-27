@@ -30,7 +30,7 @@ I'm deep into **AI agents applied to software development** — tools like Claud
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,postgres,sass,tailwind,figma,git,github,docker,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,postgres,supabase,sequelize,sass,tailwind,postcss,vercel,figma,git,github,docker,vscode,postman)
 
 </div>
 
