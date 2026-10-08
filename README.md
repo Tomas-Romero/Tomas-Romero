@@ -22,7 +22,7 @@ I care  about shipping something that actually works for real users and also wor
 
 ### 🧠 What I'm curious about right now
 
-I'm deep into **AI agents applied to software development** — tools like Claude Code and GitHub Copilot are already part of my daily workflow, and I'm learning to design my own **automation** pipelines around them instead of just using them as autocomplete. **Cybersecurity** is the other rabbit hole I've fallen into lately, especially thinking about how it intersects with the systems I build. The common thread is turning all of this into *viable* solutions — for example, KiosControl (below) has to keep selling even with zero internet connection, which forced me to actually understand offline-first design instead of reading about it.
+I'm deep into **AI agents applied to software development** — tools like Claude Code and GitHub Copilot are already part of my daily workflow, and I'm learning to design my own **automation** pipelines around them instead of just using them as autocomplete. **Cybersecurity** is the other area where I've fallen into, especially thinking about how it intersects with the systems I build. The common thread is turning all of this into *viable* solutions — for example, KiosControl (below) has to keep selling even with zero internet connection, which forced me to actually understand offline-first design instead of reading about it.
 
 ---
 
